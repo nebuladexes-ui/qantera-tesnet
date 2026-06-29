@@ -19,15 +19,15 @@ On the Qantera Public Testnet, you can:
 
 Qantera supports the EVM development experience, allowing developers to use familiar tools such as:
 
-* MetaMask;
-* OKX Wallet;
-* Rabby;
-* Hardhat;
-* Foundry;
-* Remix;
-* ethers;
-* viem;
-* Web3.py.
+* [MetaMask](set-up-your-environment/add-qantera-to-metamask.md);
+* [OKX Wallet;](set-up-your-environment/add-qantera-to-okx-wallet.md)
+* [Rabby](set-up-your-environment/rabby-and-other-evm-wallets.md);
+* [Hardhat](smart-contracts/hardhat.md);
+* [Foundry](smart-contracts/foundry.md);
+* [Remix](smart-contracts/remix.md);
+* [ethers](https://docs.ethers.org/);
+* [viem](https://viem.sh/);
+* [Web3.py](https://web3py.readthedocs.io/).
 
 ### Quantum-resistant direction
 
@@ -37,12 +37,7 @@ Detailed information about the post-quantum algorithm and transaction-verificati
 
 ### Public Testnet information
 
-| Parameter    | Value                              |
-| ------------ | ---------------------------------- |
-| Network      | Qantera Public Testnet             |
-| Chain ID     | `974621`                           |
-| Native Token | `QTER`                             |
-| Explorer     | `https://explorer.qantera.network` |
+[**Here**](introducing/network-details.md).
 
 > QTER on the Public Testnet is used only for testing and has no monetary value.
 
