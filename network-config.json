@@ -1,0 +1,26 @@
+{
+  "name": "Qantera Public Testnet",
+  "shortName": "Qantera",
+  "stage": "public-testnet",
+  "chainId": 974621,
+  "chainIdHex": "0xEDF1D",
+  "nativeCurrency": {
+    "name": "Qantera",
+    "symbol": "QTER",
+    "decimals": 18
+  },
+  "rpcUrls": [
+    "https://rpc1.qantera.network",
+    "https://rpc2.qantera.network"
+  ],
+  "webSocketUrls": [
+    "wss://rpc1.qantera.network"
+  ],
+  "explorerUrl": "https://explorer.qantera.network",
+  "faucet": {
+    "url": null,
+    "status": "coming-soon",
+    "amount": "0.1 QTER",
+    "cooldown": null
+  }
+}
