@@ -1,8 +1,12 @@
+---
+hidden: true
+---
+
 # Block explorer
 
-The Qantera Explorer allows users to view activity on the Qantera Public Testnet.
-
-Open:
+```
+View the transaction on the Qantera Explorer.
+```
 
 [Qantera Explorer](https://explorer.qantera.network/)
 

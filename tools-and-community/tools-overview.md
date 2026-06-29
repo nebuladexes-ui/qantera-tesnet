@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Tools overview
 
 Qantera provides tools for exploring the network, receiving test tokens, testing applications, and participating in the community.

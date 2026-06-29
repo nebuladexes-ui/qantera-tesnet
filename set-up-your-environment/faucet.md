@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Faucet
 
 The Qantera Faucet distributes QTER test tokens.

@@ -29,12 +29,7 @@ You can develop with:
 
 ### Qantera network
 
-| Field        | Value                                                 |
-| ------------ | ----------------------------------------------------- |
-| Chain ID     | `974621`                                              |
-| RPC URL      | `https://rpc1.qantera.network`                        |
-| Native Token | `QTER`                                                |
-| Explorer     | [Qantera Explorer](https://explorer.qantera.network/) |
+For the latest RPC endpoints, chain ID, native token, and explorer information, see [**Network Details**.](../introducing/network-details.md)
 
 ### Development flow
 

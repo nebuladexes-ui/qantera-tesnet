@@ -16,16 +16,7 @@ Use a separate wallet or account for testnet activities.
 2. Open the network selector.
 3. Select **Manage Networks** or **Custom Network**.
 4. Choose **Add Network**.
-5. Enter the following information.
-
-| Field              | Value                              |
-| ------------------ | ---------------------------------- |
-| Network Name       | Qantera Public Testnet             |
-| RPC URL            | `https://rpc1.qantera.network`     |
-| Chain ID           | `974621`                           |
-| Currency Symbol    | `QTER`                             |
-| Block Explorer URL | `https://explorer.qantera.network` |
-
+5. For the latest RPC endpoints, chain ID, native token, and explorer information, see [**Network Details**.](../introducing/network-details.md)
 6. Save the network.
 7. Switch to **Qantera Public Testnet**.
 

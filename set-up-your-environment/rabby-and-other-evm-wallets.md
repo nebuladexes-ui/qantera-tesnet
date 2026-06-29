@@ -13,16 +13,7 @@ Download Rabby from the official website:
 1. Open Rabby Wallet.
 2. Open the network management page.
 3. Select **Add Custom Network**.
-4. Enter the official Qantera information.
-
-| Field           | Value                              |
-| --------------- | ---------------------------------- |
-| Network Name    | Qantera Public Testnet             |
-| RPC URL         | `https://rpc1.qantera.network`     |
-| Chain ID        | `974621`                           |
-| Currency Symbol | `QTER`                             |
-| Explorer        | `https://explorer.qantera.network` |
-
+4. For the latest RPC endpoints, chain ID, native token, and explorer information, see [**Network Details**.](../introducing/network-details.md)
 5. Save and switch to Qantera Public Testnet.
 
 ### Other EVM wallets

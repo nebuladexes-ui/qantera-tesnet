@@ -22,15 +22,7 @@ Supported wallet options include:
 
 ### Qantera network information
 
-| Field           | Value                                                         |
-| --------------- | ------------------------------------------------------------- |
-| Network Name    | Qantera Public Testnet                                        |
-| RPC URL         | [https://rpc1.qantera.network](https://rpc1.qantera.network/) |
-| Backup RPC      | [https://rpc2.qantera.network](https://rpc2.qantera.network/) |
-| Chain ID        | `974621`                                                      |
-| Currency Symbol | `QTER`                                                        |
-| Decimals        | `18`                                                          |
-| Explorer        | [Qantera Explorer](https://explorer.qantera.network/)         |
+For the latest RPC endpoints, chain ID, native token, and explorer information, see [**Network Details**.](../introducing/network-details.md)
 
 ### Setup process
 

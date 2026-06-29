@@ -4,12 +4,7 @@ Qantera is EVM-compatible, so developers can connect using common Ethereum libra
 
 ### Available options
 
-| Language                  | Recommended Library                                                                   |
-| ------------------------- | ------------------------------------------------------------------------------------- |
-| JavaScript and TypeScript | [ethers](https://docs.ethers.org/) or [viem](https://viem.sh/)                        |
-| Python                    | [Web3.py](https://web3py.readthedocs.io/)                                             |
-| Go                        | [go-ethereum ethclient](https://pkg.go.dev/github.com/ethereum/go-ethereum/ethclient) |
-| Java                      | [Web3j](https://docs.web3j.io/)                                                       |
+For the latest RPC endpoints, chain ID, native token, and explorer information, see [**Network Details**.](../introducing/network-details.md)
 
 ### Network configuration
 

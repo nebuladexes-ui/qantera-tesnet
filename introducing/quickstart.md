@@ -16,17 +16,7 @@ For security, use a separate wallet created only for testnet activities.
 
 ### 2. Add Qantera Public Testnet
 
-Enter the following network information:
-
-| Field           | Value                              |
-| --------------- | ---------------------------------- |
-| Network Name    | Qantera Public Testnet             |
-| RPC URL         | `https://rpc1.qantera.network`     |
-| Chain ID        | `974621`                           |
-| Currency Symbol | `QTER`                             |
-| Explorer        | `https://explorer.qantera.network` |
-
-After saving, switch your wallet to Qantera Public Testnet.
+For the latest RPC endpoints, chain ID, native token, and explorer information, see [**Network Details**.](network-details.md)
 
 ### 3. Request QTER
 

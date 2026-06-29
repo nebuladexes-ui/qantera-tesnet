@@ -4,15 +4,7 @@ This page records important Qantera Public Testnet updates.
 
 ### Current Network Configuration
 
-| Field         | Value                                                        |
-| ------------- | ------------------------------------------------------------ |
-| Network       | Qantera Public Testnet                                       |
-| Chain ID      | `974621`                                                     |
-| Native Token  | `QTER`                                                       |
-| Primary RPC   | [https://rpc1.qantera.network](https://rpc1.qantera.network) |
-| Backup RPC    | [https://rpc2.qantera.network](https://rpc2.qantera.network) |
-| WebSocket RPC | `wss://rpc1.qantera.network`                                 |
-| Explorer      | [Qantera Explorer](https://explorer.qantera.network/)        |
+For the latest RPC endpoints, chain ID, native token, and explorer information, see [**Network Details**.](../introducing/network-details.md)
 
 ### Current Status
 

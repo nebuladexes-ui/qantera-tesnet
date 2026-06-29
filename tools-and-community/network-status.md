@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Network status
 
 The Network Status page will provide updates about Qantera infrastructure.

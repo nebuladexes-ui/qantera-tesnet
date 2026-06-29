@@ -19,7 +19,7 @@
 * [Add Qantera to MetaMask](set-up-your-environment/add-qantera-to-metamask.md)
 * [Add Qantera to OKX Wallet](set-up-your-environment/add-qantera-to-okx-wallet.md)
 * [Rabby and other EVM wallets](set-up-your-environment/rabby-and-other-evm-wallets.md)
-* [Request testnet tokens](set-up-your-environment/request-testnet-tokens.md)
+* [Faucet](set-up-your-environment/faucet.md)
 
 ## Transactions
 

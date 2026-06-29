@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Responsible disclosure
 
 Security researchers are encouraged to report potential vulnerabilities responsibly.
