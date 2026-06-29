@@ -4,87 +4,87 @@
 
 ## Start here
 
-* [What is the Qantera Testnet?](getting-started/what-is-qantera.md)
-* [Network details](getting-started/network-details.md)
-* [Quickstart](getting-started/quickstart.md)
+* [What is the Qantera Testnet?](start-here/what-is-the-qantera-testnet.md)
+* [Network details](start-here/network-details.md)
+* [Quickstart](start-here/quickstart.md)
 
 ## Core concepts
 
-* [Why post-quantum security matters](concepts/why-post-quantum.md)
-* [Security model](concepts/security-model.md)
-* [EVM compatibility](concepts/evm-compatibility.md)
-* [Cryptographic agility](concepts/crypto-agility.md)
+* [Why post-quantum security matters](core-concepts/why-post-quantum-security-matters.md)
+* [Security model](core-concepts/security-model.md)
+* [EVM compatibility](core-concepts/evm-compatibility.md)
+* [Cryptographic agility](core-concepts/cryptographic-agility.md)
 
 ## Set up your environment
 
-* [Overview](setup/overview.md)
-* [Add Qantera to MetaMask](setup/metamask.md)
-* [Add Qantera to OKX Wallet](setup/okx-wallet.md)
-* [Rabby and other EVM wallets](setup/other-wallets.md)
-* [Request testnet tokens](setup/faucet.md)
+* [Overview](set-up-your-environment/overview.md)
+* [Add Qantera to MetaMask](set-up-your-environment/add-qantera-to-metamask.md)
+* [Add Qantera to OKX Wallet](set-up-your-environment/add-qantera-to-okx-wallet.md)
+* [Rabby and other EVM wallets](set-up-your-environment/rabby-and-other-evm-wallets.md)
+* [Request testnet tokens](set-up-your-environment/request-testnet-tokens.md)
 
 ## Transactions
 
 * [Overview](transactions/overview.md)
-* [Transaction lifecycle](transactions/lifecycle.md)
-* [Gas and fees](transactions/fees.md)
+* [Transaction lifecycle](transactions/transaction-lifecycle.md)
+* [Gas and fees](transactions/gas-and-fees.md)
 * [Finality](transactions/finality.md)
-* [Send your first transaction](transactions/send-transaction.md)
+* [Send your first transaction](transactions/send-your-first-transaction.md)
 
 ## Smart contracts
 
 * [Overview](smart-contracts/overview.md)
-* [Development environment](smart-contracts/environment.md)
+* [Development environment](smart-contracts/development-environment.md)
 * [Hardhat](smart-contracts/hardhat.md)
 * [Foundry](smart-contracts/foundry.md)
 * [Remix](smart-contracts/remix.md)
-* [Deploy a contract](smart-contracts/deploy.md)
-* [Interact with a contract](smart-contracts/interact.md)
-* [Verify a contract](smart-contracts/verify.md)
+* [Deploy a contract](smart-contracts/deploy-a-contract.md)
+* [Interact with a contract](smart-contracts/interact-with-a-contract.md)
+* [Verify a contract](smart-contracts/verify-a-contract.md)
 
 ## JSON-RPC API
 
-* [Overview](rpc/overview.md)
-    * [eth_blockNumber](rpc/methods/eth-blocknumber.md)
-    * [eth_chainId](rpc/methods/eth-chainid.md)
-    * [eth_call](rpc/methods/eth-call.md)
-    * [eth_estimateGas](rpc/methods/eth-estimategas.md)
-    * [eth_feeHistory](rpc/methods/eth-feehistory.md)
-    * [eth_gasPrice](rpc/methods/eth-gasprice.md)
-    * [eth_maxPriorityFeePerGas](rpc/methods/eth-maxpriorityfeepergas.md)
-    * [eth_getBalance](rpc/methods/eth-getbalance.md)
-    * [eth_getCode](rpc/methods/eth-getcode.md)
-    * [eth_getStorageAt](rpc/methods/eth-getstorageat.md)
-    * [eth_getProof](rpc/methods/eth-getproof.md)
-    * [eth_getBlockByHash](rpc/methods/eth-getblockbyhash.md)
-    * [eth_getBlockByNumber](rpc/methods/eth-getblockbynumber.md)
-    * [eth_getBlockTransactionCountByHash](rpc/methods/eth-getblocktransactioncountbyhash.md)
-    * [eth_getBlockTransactionCountByNumber](rpc/methods/eth-getblocktransactioncountbynumber.md)
-    * [eth_getTransactionByHash](rpc/methods/eth-gettransactionbyhash.md)
-    * [eth_getTransactionByBlockHashAndIndex](rpc/methods/eth-gettransactionbyblockhashandindex.md)
-    * [eth_getTransactionByBlockNumberAndIndex](rpc/methods/eth-gettransactionbyblocknumberandindex.md)
-    * [eth_getTransactionCount](rpc/methods/eth-gettransactioncount.md)
-    * [eth_getTransactionReceipt](rpc/methods/eth-gettransactionreceipt.md)
-    * [eth_sendRawTransaction](rpc/methods/eth-sendrawtransaction.md)
-    * [eth_getLogs](rpc/methods/eth-getlogs.md)
-    * [eth_newFilter](rpc/methods/eth-newfilter.md)
-    * [eth_newBlockFilter](rpc/methods/eth-newblockfilter.md)
-    * [eth_newPendingTransactionFilter](rpc/methods/eth-newpendingtransactionfilter.md)
-    * [eth_getFilterChanges](rpc/methods/eth-getfilterchanges.md)
-    * [eth_getFilterLogs](rpc/methods/eth-getfilterlogs.md)
-    * [eth_uninstallFilter](rpc/methods/eth-uninstallfilter.md)
-    * [eth_syncing](rpc/methods/eth-syncing.md)
-    * [net_version](rpc/methods/net-version.md)
-    * [web3_clientVersion](rpc/methods/web3-clientversion.md)
-* [Qantera-specific methods](rpc/custom-methods.md)
+* [Overview](json-rpc-api/overview/README.md)
+  * [eth\_blockNumber](json-rpc-api/overview/eth_blocknumber.md)
+  * [eth\_chainId](json-rpc-api/overview/eth_chainid.md)
+  * [eth\_call](json-rpc-api/overview/eth_call.md)
+  * [eth\_estimateGas](json-rpc-api/overview/eth_estimategas.md)
+  * [eth\_feeHistory](json-rpc-api/overview/eth_feehistory.md)
+  * [eth\_gasPrice](json-rpc-api/overview/eth_gasprice.md)
+  * [eth\_maxPriorityFeePerGas](json-rpc-api/overview/eth_maxpriorityfeepergas.md)
+  * [eth\_getBalance](json-rpc-api/overview/eth_getbalance.md)
+  * [eth\_getCode](json-rpc-api/overview/eth_getcode.md)
+  * [eth\_getStorageAt](json-rpc-api/overview/eth_getstorageat.md)
+  * [eth\_getProof](json-rpc-api/overview/eth_getproof.md)
+  * [eth\_getBlockByHash](json-rpc-api/overview/eth_getblockbyhash.md)
+  * [eth\_getBlockByNumber](json-rpc-api/overview/eth_getblockbynumber.md)
+  * [eth\_getBlockTransactionCountByHash](json-rpc-api/overview/eth_getblocktransactioncountbyhash.md)
+  * [eth\_getBlockTransactionCountByNumber](json-rpc-api/overview/eth_getblocktransactioncountbynumber.md)
+  * [eth\_getTransactionByHash](json-rpc-api/overview/eth_gettransactionbyhash.md)
+  * [eth\_getTransactionByBlockHashAndIndex](json-rpc-api/overview/eth_gettransactionbyblockhashandindex.md)
+  * [eth\_getTransactionByBlockNumberAndIndex](json-rpc-api/overview/eth_gettransactionbyblocknumberandindex.md)
+  * [eth\_getTransactionCount](json-rpc-api/overview/eth_gettransactioncount.md)
+  * [eth\_getTransactionReceipt](json-rpc-api/overview/eth_gettransactionreceipt.md)
+  * [eth\_sendRawTransaction](json-rpc-api/overview/eth_sendrawtransaction.md)
+  * [eth\_getLogs](json-rpc-api/overview/eth_getlogs.md)
+  * [eth\_newFilter](json-rpc-api/overview/eth_newfilter.md)
+  * [eth\_newBlockFilter](json-rpc-api/overview/eth_newblockfilter.md)
+  * [eth\_newPendingTransactionFilter](json-rpc-api/overview/eth_newpendingtransactionfilter.md)
+  * [eth\_getFilterChanges](json-rpc-api/overview/eth_getfilterchanges.md)
+  * [eth\_getFilterLogs](json-rpc-api/overview/eth_getfilterlogs.md)
+  * [eth\_uninstallFilter](json-rpc-api/overview/eth_uninstallfilter.md)
+  * [eth\_syncing](json-rpc-api/overview/eth_syncing.md)
+  * [net\_version](json-rpc-api/overview/net_version.md)
+  * [web3\_clientVersion](json-rpc-api/overview/web3_clientversion.md)
+* [Qantera-specific methods](json-rpc-api/qantera-specific-methods.md)
 
 ## SDKs and libraries
 
-* [Overview](sdks/overview.md)
-* [JavaScript and TypeScript](sdks/javascript.md)
-* [Python](sdks/python.md)
-* [Go](sdks/go.md)
-* [Java](sdks/java.md)
+* [Overview](sdks-and-libraries/overview.md)
+* [JavaScript and TypeScript](sdks-and-libraries/javascript-and-typescript.md)
+* [Python](sdks-and-libraries/python.md)
+* [Go](sdks-and-libraries/go.md)
+* [Java](sdks-and-libraries/java.md)
 
 ## Nodes
 
@@ -104,28 +104,28 @@
 
 ## Security
 
-* [Post-quantum security](security/post-quantum.md)
+* [Post-quantum security](security/post-quantum-security.md)
 * [Wallet safety](security/wallet-safety.md)
 * [Smart-contract security](security/smart-contract-security.md)
 * [Responsible disclosure](security/responsible-disclosure.md)
 
 ## Tools and community
 
-* [Tools overview](tools/overview.md)
-* [Block explorer](tools/explorer.md)
-* [Faucet](tools/faucet.md)
-* [Network status](tools/status.md)
-* [Social Tasks](community/social-tasks.md)
-* [Yap Tasks](community/yap-tasks.md)
-* [Qantera Genesis NFT](community/genesis-nft.md)
-* [Contributor leaderboard](community/leaderboard.md)
+* [Tools overview](tools-and-community/tools-overview.md)
+* [Block explorer](tools-and-community/block-explorer.md)
+* [Faucet](tools-and-community/faucet.md)
+* [Network status](tools-and-community/network-status.md)
+* [Social Tasks](tools-and-community/social-tasks.md)
+* [Yap Tasks](tools-and-community/yap-tasks.md)
+* [Qantera Genesis NFT](tools-and-community/qantera-genesis-nft.md)
+* [Contributor leaderboard](tools-and-community/contributor-leaderboard.md)
 
 ## Reference
 
 * [Glossary](reference/glossary.md)
-* [Common errors](reference/errors.md)
+* [Common errors](reference/common-errors.md)
 * [Release notes](reference/release-notes.md)
-* [Technical references](reference/references.md)
+* [Technical references](reference/technical-references.md)
 
 ## Maintainers
 

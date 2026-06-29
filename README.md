@@ -4,41 +4,31 @@ Qantera is an EVM-compatible Layer 1 public testnet designed to explore quantum-
 
 This documentation is written for four audiences:
 
-- **Users** connecting a wallet, claiming QTER, and sending test transactions.
-- **Developers** deploying Solidity contracts and integrating Qantera through JSON-RPC.
-- **Infrastructure operators** preparing to run nodes or validators when public binaries and participation rules are released.
-- **Security researchers and contributors** evaluating the network model, testing applications, and participating in community programs.
+* **Users** connecting a wallet, claiming QTER, and sending test transactions.
+* **Developers** deploying Solidity contracts and integrating Qantera through JSON-RPC.
+* **Infrastructure operators** preparing to run nodes or validators when public binaries and participation rules are released.
+* **Security researchers and contributors** evaluating the network model, testing applications, and participating in community programs.
 
 > **Public testnet notice:** QTER is a test token used for gas and application testing. It has no monetary value. Testnet state, configuration, and features may change during development.
 
 ## Official network configuration
 
-| Parameter | Value |
-|---|---|
-| Network name | Qantera Public Testnet |
-| Network type | EVM-compatible Layer 1 public testnet |
-| Chain ID | `974621` |
-| Chain ID — hexadecimal | `0xEDF1D` |
-| Native currency | Qantera |
-| Symbol | `QTER` |
-| Decimals | `18` |
-| Primary HTTP RPC | `https://rpc1.qantera.network` |
-| Backup HTTP RPC | `https://rpc2.qantera.network` |
-| WebSocket RPC | `wss://rpc1.qantera.network` |
-| Block explorer | `https://explorer.qantera.network` |
-| Faucet | Coming soon |
-| Faucet amount | `0.1 QTER` per successful claim |
-| Faucet cooldown | Not yet announced |
-
-## Choose your path
-
-### Connect and test
-
-1. Read [What is the Qantera Testnet?](getting-started/what-is-qantera.md).
-2. Copy the official values from [Network details](getting-started/network-details.md).
-3. Complete the [Quickstart](getting-started/quickstart.md).
-4. Add the network to MetaMask, OKX Wallet, Rabby, or another compatible wallet.
-5. Inspect blocks and transactions through the explorer.
+| Parameter              | Value                                 |
+| ---------------------- | ------------------------------------- |
+| Network name           | Qantera Public Testnet                |
+| Network type           | EVM-compatible Layer 1 public testnet |
+| Chain ID               | `974621`                              |
+| Chain ID — hexadecimal | `0xEDF1D`                             |
+| Native currency        | Qantera                               |
+| Symbol                 | `QTER`                                |
+| Decimals               | `18`                                  |
+| Primary HTTP RPC       | `https://rpc1.qantera.network`        |
+| Backup HTTP RPC        | `https://rpc2.qantera.network`        |
+| WebSocket RPC          | `wss://rpc1.qantera.network`          |
+| Block explorer         | `https://explorer.qantera.network`    |
+| Faucet                 | Coming soon                           |
+| Faucet amount          | `0.1 QTER` per successful claim       |
+| Faucet cooldown        | Not yet announced                     |
 
 ### Build on Qantera
 
@@ -56,20 +46,20 @@ Read the pages on post-quantum security, cryptographic agility, EVM compatibilit
 
 The following information is confirmed in this release:
 
-- public testnet stage;
-- chain ID;
-- native currency;
-- token decimals;
-- HTTP and WebSocket endpoints;
-- block explorer;
-- faucet claim amount.
+* public testnet stage;
+* chain ID;
+* native currency;
+* token decimals;
+* HTTP and WebSocket endpoints;
+* block explorer;
+* faucet claim amount.
 
 The following information remains unpublished and is not inferred:
 
-- consensus mechanism;
-- target block time and finality guarantees;
-- public node client and validator participation rules;
-- exact post-quantum algorithm, parameter set, transaction envelope, and verification path;
-- audit reports and test vectors.
+* consensus mechanism;
+* target block time and finality guarantees;
+* public node client and validator participation rules;
+* exact post-quantum algorithm, parameter set, transaction envelope, and verification path;
+* audit reports and test vectors.
 
 These pages will be updated as the corresponding specifications are released.
