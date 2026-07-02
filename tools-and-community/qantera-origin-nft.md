@@ -1,6 +1,6 @@
-# Qantera Genesis NFT
+# Qantera Origin NFT
 
-The Qantera Genesis NFT is designed as an on-chain credential for early contributors to the Qantera ecosystem.
+The Qantera Origin NFT is designed as an on-chain credential for early contributors to the Qantera ecosystem.
 
 ### What it represents
 
@@ -39,7 +39,7 @@ The following details will be added before minting begins:
 
 ### Important
 
-The Genesis NFT does not automatically guarantee:
+The Origin NFT does not automatically guarantee:
 
 * token rewards;
 * airdrops;

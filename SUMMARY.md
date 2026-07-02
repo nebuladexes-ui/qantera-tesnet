@@ -84,7 +84,7 @@
 * [Network status](tools-and-community/network-status.md)
 * [Social Tasks](tools-and-community/social-tasks.md)
 * [Yap Tasks](tools-and-community/yap-tasks.md)
-* [Qantera Genesis NFT](tools-and-community/qantera-genesis-nft.md)
+* [Qantera Origin NFT](tools-and-community/qantera-origin-nft.md)
 * [Contributor leaderboard](tools-and-community/contributor-leaderboard.md)
 
 ## Reference

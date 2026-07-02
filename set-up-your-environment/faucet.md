@@ -6,12 +6,12 @@ QTER is used to pay gas fees and test applications on the Qantera Public Testnet
 
 ### Faucet information
 
-| Field          | Value             |
-| -------------- | ----------------- |
-| Token          | QTER              |
-| Claim Amount   | `0.1 QTER`        |
-| Faucet URL     | Coming soon       |
-| Claim Cooldown | Not yet announced |
+| Field          | Value       |
+| -------------- | ----------- |
+| Token          | QTER        |
+| Claim Amount   | `1 QTER`    |
+| Faucet URL     | Coming soon |
+| Claim Cooldown | 24 Hours    |
 
 ### How to claim
 
@@ -21,7 +21,7 @@ When the faucet becomes available:
 2. Connect your wallet.
 3. Switch to Qantera Public Testnet.
 4. Confirm chain ID `974621`.
-5. Select **Claim 0.1 QTER**.
+5. Select **Claim 1 QTER**.
 6. Wait for the transaction.
 7. Check it on the [Qantera Explorer](https://explorer.qantera.network/).
 

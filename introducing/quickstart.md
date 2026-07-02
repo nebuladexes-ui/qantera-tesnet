@@ -23,7 +23,7 @@ For the latest RPC endpoints, chain ID, native token, and explorer information, 
 The Qantera faucet will distribute:
 
 ```
-0.1 QTER per successful claim
+1 QTER per successful claim
 ```
 
 The faucet URL will be added to this documentation when it becomes available.

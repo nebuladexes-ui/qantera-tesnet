@@ -14,7 +14,7 @@ Make sure that:
 The public faucet will provide:
 
 ```
-0.1 QTER per successful claim
+1 QTER per successful claim
 ```
 
 The faucet link will be added when available.

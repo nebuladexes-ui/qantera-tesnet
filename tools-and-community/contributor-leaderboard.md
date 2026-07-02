@@ -10,7 +10,7 @@ Points may come from:
 * Yap Tasks;
 * testnet transactions;
 * smart-contract deployment;
-* Genesis NFT participation;
+* Origin NFT participation;
 * community contributions;
 * approved bug reports.
 

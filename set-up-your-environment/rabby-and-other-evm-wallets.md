@@ -40,14 +40,3 @@ Future quantum-resistant signing features may require additional wallet or signe
 QTER is the native token of Qantera Public Testnet.
 
 It is used to pay gas fees and test applications on the network.
-
-### Faucet information
-
-| Field          | Value             |
-| -------------- | ----------------- |
-| Token          | QTER              |
-| Claim Amount   | `0.1 QTER`        |
-| Faucet URL     | Coming soon       |
-| Claim Cooldown | Not yet announced |
-
-The official faucet link will be added to this page when it becomes available.
